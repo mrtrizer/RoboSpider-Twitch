@@ -16,6 +16,12 @@ commands = {
 		'limit': 30,
 		'argc': 3,
 		'return': 'command'
+	},
+
+	'!bot': {
+			'limit': 5,
+			'argc': 1,
+			'return': 'command'
 	}
 }
 
