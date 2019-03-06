@@ -4,4 +4,8 @@ Example on Twitch:
 https://clips.twitch.tv/ModernGrotesqueSkirretKappaWealth
 
 
+Robot sources:
+https://github.com/mrtrizer/RoboSpider2
+
+
 ![Photo](doc/Photo.jpg?raw=true "Photo")
